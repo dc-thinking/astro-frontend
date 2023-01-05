@@ -1,0 +1,7 @@
+.loginContainer {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    color: inherit;
+    height: 100%;
+}
